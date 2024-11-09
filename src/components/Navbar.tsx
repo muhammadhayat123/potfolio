@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+
 import { MdOutlineMenu } from "react-icons/md";
 
 const Navbar = () => {
